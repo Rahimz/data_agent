@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Connection: close
+
+{
+  "answer": "This is a static response from the netcat server!",
+  "status": "success"
+}
